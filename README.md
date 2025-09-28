@@ -2,7 +2,7 @@
 A Mini Shell 
 
 ## Description 🔍
-Coding our own shell, parsing and implementatioin of command, manage bad command and error log.
+Developed a custom shell in C as my first major group project. The shell supports command parsing, execution, error management, and handling of invalid inputs. My main contribution was designing the command parsing system using linked lists and implementing several core commands. This project helped me strengthen my understanding of low-level programming, data structures, and collaborative development in C.
 
 ## Getting started 🏁
 
