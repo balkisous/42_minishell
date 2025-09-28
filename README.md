@@ -2,7 +2,7 @@
 A Mini Shell 
 
 ## Description 🔍
-Coding our own shell, parsing and implementatioin of command, manage bad command and error.
+Coding our own shell, parsing and implementatioin of command, manage bad command and error log.
 
 ## Getting started 🏁
 
